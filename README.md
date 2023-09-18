@@ -9,4 +9,4 @@ All codes are written in Python.
 ## List
 |Competition|Duration|Result|
 |---|---|---|
-|[Store Sales - Time Series Forecasting]()|_2023.09.19~_||
+|[Store Sales - Time Series Forecasting](https://github.com/Kaggle-Conquer/Get-Started/tree/main/StoreSales-TimeSeriesForecasting)|_2023.09.19~_||
